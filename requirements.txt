@@ -1,0 +1,10 @@
+requests
+gradio
+chromadb
+pypdf
+numpy
+ddgs
+trafilatura
+ollama
+python-docx
+Pillow

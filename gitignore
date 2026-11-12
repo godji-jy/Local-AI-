@@ -1,0 +1,11 @@
+# สภาพแวดล้อมและไฟล์ชั่วคราว
+.venv/
+__pycache__/
+*.pyc
+
+# ข้อมูลส่วนตัว ห้ามอัปโหลด
+chats/
+knowledge/
+chroma_db/
+workspace/
+doc_images/
